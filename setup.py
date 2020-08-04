@@ -21,6 +21,11 @@ setup(
     ],
     keywords='cookies',
     packages=find_packages(),
+    package_data={
+        'cookie_factory': [
+            'data/*',
+        ],
+    },
     install_requires=[],
     include_package_data=True,
     test_suite='nose.collector',
