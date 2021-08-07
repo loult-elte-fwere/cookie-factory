@@ -1299,7 +1299,7 @@ connecté
 connu
 conquérant
 consacré
-consanguin
+du Mordor
 conscient
 consensuel
 consentant
@@ -2644,7 +2644,7 @@ fêlé
 gabonais
 gaffeur
 gagnant
-gagné
+oignoniste
 gagé
 gai
 gaillard
@@ -4505,7 +4505,7 @@ perturbateur
 perturbé
 perverti
 perçant
-perçu
+cacaposteur
 pesant
 pesticide
 pestiféré
@@ -6491,7 +6491,7 @@ bourré comme un coing
 de la jaquette
 de malheur
 du bien dowmiw
-du Mordor
+consanguin
 du ter-ter
 du turfu
 déchiré comme un drap de pauvre
